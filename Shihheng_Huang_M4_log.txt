@@ -1,8 +1,21 @@
 === Git Remote Configuration ===
-$(git remote -v)
+origin	https://sean94huang@bitbucket.org/cis1160-workspace/cis1160-m4.git (fetch)
+origin	https://sean94huang@bitbucket.org/cis1160-workspace/cis1160-m4.git (push)
 
 === Git Branch Tracking ===
-$(git branch -vv)
+  greet 404857e Changed hello in greet branch
+* main  c1b13b2 [origin/main] Update M4 log and add all project files
 
 === Latest Git Commit Log ===
-$(git log --graph --oneline --all)
+* c1b13b2 Update M4 log and add all project files
+* 3aaebce Add M3 log, M4 log, and README for remote submission
+*   30ffb0e Resolved merge conflict
+|\  
+| * 404857e Changed hello in greet branch
+* | 021c93d Changed hello in master branch
+|/  
+* 9ba7154 Updated hello.rb with greet feature
+* b2037ea Added a comment
+* 28522b4 Add default value for name argument
+* 04f2438 Changed hello.rb to take an argument
+* 884483a First Commit
