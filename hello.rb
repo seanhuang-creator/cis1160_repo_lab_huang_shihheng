@@ -1,1 +1,1 @@
-puts "Hello from Master Branch!"
+puts "Hello, resolved conflict!"
