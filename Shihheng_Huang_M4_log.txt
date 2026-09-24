@@ -1,0 +1,5 @@
+* 9ba7154 (HEAD -> master, origin/master, greet) Updated hello.rb with greet feature
+* b2037ea Added a comment
+* 28522b4 Add default value for name argument
+* 04f2438 Changed hello.rb to take an argument
+* 884483a First Commit
