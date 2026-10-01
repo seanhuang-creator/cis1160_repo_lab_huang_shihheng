@@ -1,12 +1,15 @@
 === Git Remote Configuration ===
+github	https://github.com/seanhuang-creator/cis1160_repo_lab_huang_shihheng.git (fetch)
+github	https://github.com/seanhuang-creator/cis1160_repo_lab_huang_shihheng.git (push)
 origin	https://sean94huang@bitbucket.org/cis1160-workspace/cis1160-m4.git (fetch)
 origin	https://sean94huang@bitbucket.org/cis1160-workspace/cis1160-m4.git (push)
 
 === Git Branch Tracking ===
   greet 404857e Changed hello in greet branch
-* main  c1b13b2 [origin/main] Update M4 log and add all project files
+* main  821f373 [github/main] Fix M4 log content format
 
 === Latest Git Commit Log ===
+* 821f373 Fix M4 log content format
 * c1b13b2 Update M4 log and add all project files
 * 3aaebce Add M3 log, M4 log, and README for remote submission
 *   30ffb0e Resolved merge conflict
