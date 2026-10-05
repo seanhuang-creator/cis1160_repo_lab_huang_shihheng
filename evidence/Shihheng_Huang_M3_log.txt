@@ -1,0 +1,19 @@
+*   297fc2e Merged main fixed conflict.
+|\  
+| * 6366d2e Made interactive
+* | 1dfe3f2 Merged main into greet
+|\| 
+| * b5c3a67 Added README
+| * 60ff0d6 Moved hello.rb to lib
+* | 5699c42 Updated Rakefile
+* | 6c0dc45 Hello uses Greeter
+* | 1ddfcdc Added greeter class
+|/  
+* 12f49cd Added a comment
+* d5cb536 Added a default value
+* 50e6c8c Using ARG
+* 5ad38a0 Unrelated change to c
+* 0b28bd6 Changes for a and b
+* a942995 Add comment
+* 7e8478d Add an argument
+* 2f77f13 First Commit
